@@ -23,7 +23,7 @@ print('   / /  | |/ |/ / /_/ / _  |/ /  / /   / /___/ // ,< / _// , _/'),time.sl
 print('  /_/   |__/|__/\____/____/___/ /_/   /____/___/_/|_/___/_/|_| \u001b[0m'),time.sleep(.1)
 print('\u001b[33;1m-----------------------------------------------------------------\u001b[0m'),time.sleep(.1)
 print('\u001b[32mInstagram App API: Private             YOUR IP:', IPAddr, '\u001b[0m'),time.sleep(.1)
-print('\u001b[33;1mOwner(s): @un_f_amour @anandhx         Last Update: 30.5.2021\u001b[0m'),time.sleep(.1)
+print('\u001b[33;1mOwner(s): @un_f_amour @anandhx         Last Update: 02.07.2021\u001b[0m'),time.sleep(.1)
 print('\u001b[31;1mMaintainer(s): @_arun                  Telegram: ProjectX_insta\u001b[0m'),time.sleep(.1)
 
 print('\u001b[33;1m-----------------------------------------------------------------\u001b[0m'),time.sleep(.1)
